@@ -8,11 +8,13 @@ A few about me
 
 
 ##Checkout some of my projects
+
 *[GamingHub](dhela19.github.io/GamingHub) - a web template*
 
 
 
 ###Contact
+
 You can reach me on Facebook [here](https://m.facebook.com/dhela.frank)
 
 Thanks for visiting this page
