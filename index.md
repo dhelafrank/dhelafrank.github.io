@@ -9,7 +9,7 @@ A few about me
 
 ##Checkout some of my projects
 
-*[GamingHub](dhela19.github.io/GamingHub) - a web template*
+*[GamingHub](https://dhela19.github.io/GamingHub) - a web template*
 
 
 
