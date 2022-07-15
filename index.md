@@ -10,17 +10,17 @@ A few about me
 ##Checkout some of my projects
 
 *[GamingHub](https://dhela19.github.io/GamingHub) - a web template*
+<br>
 
 
 
 ###Contact
 
-You can reach me on Facebook [here](https://m.facebook.com/dhela.frank)
-<a href="https://m.facebook.com"><button id="contact">Here</button></a>
+You can reach me on Facebook <a href="https://m.facebook.com/dhela.frank"><button id="contact">Here</button></a>
 
 Thanks for visiting this page
 
-![test](https://user-images.githubusercontent.com/87214555/178602225-ce3d57d4-b75c-4f46-9c60-74517b03eeab.jpg)
+<div id="img_cont"><img src="./test.jpg" width=100cm height=100cm alt="Dhela Frank Avater representation" id="img1"></div>
 
 
 
