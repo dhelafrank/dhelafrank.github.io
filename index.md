@@ -16,6 +16,7 @@ A few about me
 ###Contact
 
 You can reach me on Facebook [here](https://m.facebook.com/dhela.frank)
+<a href="https://m.facebook.com"><button id="contact">Here</button></a>
 
 Thanks for visiting this page
 
