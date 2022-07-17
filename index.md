@@ -1,15 +1,17 @@
 A few about me
 - 👋 I’m @Dhela
 - 🌱 I love Computer Science and Tech stuffs
-- 👀 And also interested in Programming 🌏 thus am a frontend web Developer
-- Am also a cyber enthusiast thus i love creating new things. 
+- 👀 Am also interested in Programming 🌏 thus am a frontend web Developer
+- Am a cyber enthusiast thus i love creating new things. 
 - 👩‍💻 I am currently learning Cross Platform Development through Flutter to increase my knowledge :-D
 - 🤓 I also love gaming too ;-)
 
 
 ##Checkout some of my projects
 
-*[GamingHub](https://dhela19.github.io/GamingHub) - a web template*
+**[GamingHub](https://dhela19.github.io/GamingHub)** - Web Template
+
+**[Techspot](https://dhela19.githu.io/Techspot)** - Web Template
 <br>
 
 
