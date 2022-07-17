@@ -13,7 +13,7 @@ A few about me
 
 **[GamingHub](https://dhela19.github.io/GamingHub)** - Web Template
 
-**[Techspot](https://dhela19.githu.io/Techspot)** - Web Template
+**[Techspot](https://dhela19.github.io/Techspot)** - Web Template
 <br>
 
 
