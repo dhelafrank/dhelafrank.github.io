@@ -1,4 +1,4 @@
-# About
+### About
 A few about me
 - 👋 I’m @Dhela
 - 👀 Am a Programmer, a frontend web developer 🌏
@@ -7,7 +7,7 @@ A few about me
 - 🤓 I also love gaming too ;-)
 
 
-## Checkout some of my projects
+### Checkout some of my projects
 
 **[GamingHub](https://dhela19.github.io/GamingHub)** - Web Template
 
@@ -16,7 +16,7 @@ A few about me
 
 
 
-## Contact
+### Contact
 
 You can reach me on Facebook <a href="https://m.facebook.com/dhela.frank"><button id="contact">Here</button></a>
 
