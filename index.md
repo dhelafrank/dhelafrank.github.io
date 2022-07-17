@@ -1,10 +1,9 @@
-## About
+# About
 A few about me
 - 👋 I’m @Dhela
+- 👀 Am a Programmer, a frontend web developer 🌏
 - 🌱 I love Computer Science and Tech stuffs
-- 👀 Am also interested in Programming 🌏 thus am a frontend web Developer
-- 👍 Am a cyber enthusiast thus i love creating new things. 
-- 👩‍💻 I am currently learning Cross Platform Development through Flutter to increase my knowledge :-D
+- 👩‍ and am currently learning Cross Platform Development through Flutter to increase my knowledge 💻
 - 🤓 I also love gaming too ;-)
 
 
