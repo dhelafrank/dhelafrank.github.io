@@ -17,9 +17,15 @@
 
 <br>
 <br>
-<h3>Contact</h3>
+<h3>Contact 🤳🏼</h3>
 
 <p align="justify">You can reach me on Facebook <a href="https://m.facebook.com/dhela.frank"><button>Here</button></a></p>
+
+<h3>Fun Stuff 🤹🏽‍♂️</h3>
+
+<p align="justify"><a href="https://photos.app.goo.gl/McZvqPTTP8vxYjqQ7">Join a Programming Album </a></p>
+
+<hr>
 
 Thanks for visiting this page
 
