@@ -14,17 +14,14 @@
 
 <p align="center"><a href="https://dhela19.github.io/Techspot"><b>Techspot</b></a> - Web Template</p>
 <hr>
-
-<br>
 <br>
 <h3>Contact 🤳🏼</h3>
 
 <p align="justify">You can reach me on Facebook <a href="https://m.facebook.com/dhela.frank"><button>Here</button></a></p>
-
+<br>
 <h3>Fun Stuff 🤹🏽‍♂️</h3>
-
 <p align="justify"><a href="https://photos.app.goo.gl/McZvqPTTP8vxYjqQ7">Join a Programming Album </a></p>
-
+<br>
 <hr>
 
 Thanks for visiting this page
