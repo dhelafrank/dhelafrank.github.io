@@ -7,10 +7,10 @@
 <ul align="center">
 - 👋 I’m @Dhela 
 - 👀 a Programmer  
-- 🌏 and a frontend web Developer 
+- 🌏 And a Backend web Developer 
 - 🌱 I love Computer Science and Tech stuffs 
-- 👩‍ am currently learning Cross Platform Development through Flutter 💻 
-- 🤓 and I love gaming too 📫
+- 👩‍ And am currently learning Nodejs💻 
+- 🤓 I also love gaming too 📫
 
 Feel free to contact me [here](https://m.facebook.com/dhela.frank)</ul>
 
