@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my GitHub Profile</h2>
 
-  <p align="center"><img src="./res/hi-guy.gif" alt="welcome" width=150px height=170px></p>
+  <p align="center"><img src="./res/0001.gif" alt="welcome" width=150px height=170px></p>
 
 <h4 align="center">About Me</h4>
 
